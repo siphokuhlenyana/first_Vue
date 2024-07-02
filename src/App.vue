@@ -17,6 +17,7 @@ components:{
 
 </script>
 <style>
+/* Styling */
 #app {
   font-family: Avenir, Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
